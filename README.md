@@ -8,4 +8,4 @@ Proggramming POE
 4. Run the executable file generated.
 
 
-https://github.com/LeahAphane/PART-1.git
+GitHub Repository: https://github.com/LeahAphane/PART-1.git
